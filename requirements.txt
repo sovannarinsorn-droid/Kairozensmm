@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+flask
+qrcode
+pillow
+python-dotenv
+urllib3

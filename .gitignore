@@ -1,0 +1,15 @@
+# ── Secrets — កុំ push ទៅ Github ──
+.env
+*.json
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Logs ──
+*.log
+
+# ── OS ──
+.DS_Store
+Thumbs.db
